@@ -1,13 +1,13 @@
 [package]
 name = "thue_morse"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Austin Heller"]
-description = "A library for generating Thue-Morse number sequences for different bases."
+description = "A library for generating Thue-Morse number sequences for different bases. You can also specifically create evil numbers and odious numbers."
 readme = "README.md"
 repository = "https://github.com/AustinHellerRepo/thue_morse"
 license = "MIT OR Apache-2.0"
-keywords = ["math", "binary", "iterator", "mathematics", "pattern"]
+keywords = ["math", "binary", "iterator", "evil-numbers", "pattern"]
 categories = ["algorithms", "mathematics"]
 
 [dependencies]
